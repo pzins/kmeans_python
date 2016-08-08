@@ -1,5 +1,5 @@
 import random
-
+# generate data for the kmeans algotihm
 
 NUMBER = 1000000000
 MAX = 5000
